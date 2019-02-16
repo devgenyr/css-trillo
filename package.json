@@ -1,5 +1,6 @@
 {
   "name": "trillo",
+  "homepage": "https://devgenyr.github.io/css-trillo",
   "version": "1.0.0",
   "description": "trillo Web app",
   "main": "index.js",
